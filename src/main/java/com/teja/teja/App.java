@@ -1,7 +1,7 @@
 package com.teja.teja;
 
 /**
- * Hello world!
+ * Hello kanna!
  *
  */
 public class App 
